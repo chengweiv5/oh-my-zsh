@@ -1,1 +1,1 @@
-alias git='git --no-pager'
+#alias git='git --no-pager'
